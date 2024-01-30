@@ -18,6 +18,8 @@ const config: Config = {
         'gray-950': '#4E4E4E',
         balck: '#0F0F0F',
         primary: '#81E6D9',
+        secondary: '#212121',
+        'gray-900': "#2C2C2C",
       },
     },
   },
